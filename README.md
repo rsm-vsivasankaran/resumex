@@ -37,11 +37,11 @@ pip install resumex-py
 1. **Create your resume**: Save your data in `resume.yaml` (see [examples/resume.yaml](examples/resume.yaml)).
 2. **Generate PDF**:
    ```bash
-   resumex build resume.yaml --out build
+   resumex build resume.yaml
    ```
 3. **Generate TeX only**:
    ```bash
-   resumex tex resume.yaml --out build
+   resumex tex resume.yaml
    ```
 
 ## Custom Themes
