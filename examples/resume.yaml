@@ -59,11 +59,11 @@ sections:
         highlights:
           - "Developed star/snowflake schemas and Python ETL pipelines into Snowflake, building dbt models and optimized Plotly/Tableau dashboards that improved query speed by ~25%."
           - "Implemented query optimization and RBAC; interactive Plotly/Tableau dashboards surfaced sales, churn, and profitability trends, reducing dashboard latency by ~25%."
-      - title: "RiboSense — ML Project"
+      - title: "HyperSense — ML Project"
         stack: "Python, Pandas, TensorFlow, Plotly"
         dates: "Jul 2022 -- Jan 2023"
         highlights:
-          - "Designed a BiLSTM pipeline for riboswitch detection achieving 0.98 AUC-ROC on benchmarks, with visualizations using Plotly."
+          - "Designed a BiLSTM pipeline for hypersense detection achieving 0.98 AUC-ROC on benchmarks, with visualizations using Plotly."
 
   honors:
     items:
