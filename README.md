@@ -23,13 +23,13 @@ An easy, YAML-based, theme-driven resume generator. `resumex` takes your structu
 ### Using `uv` (Recommended)
 
 ```bash
-uv tool install resumex
+uv tool install resumex-py
 ```
 
 ### Using `pip`
 
 ```bash
-pip install resumex
+pip install resumex-py
 ```
 
 ## Quickstart
