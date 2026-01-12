@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "resumex-py"
-version = "0.1.0"
+version = "1.0.0"
 description = "YAML -> LaTeX -> PDF resume builder with strict theme schemas."
 readme = "README.md"
 requires-python = ">=3.12"
@@ -40,7 +40,7 @@ packages = ["src/resumex"]
 
 [tool.hatch.build]
 include = [
-  "src/resumex/themes_data/**",
+  "src/resumex/**",
   "README.md",
   "LICENSE",
 ]
