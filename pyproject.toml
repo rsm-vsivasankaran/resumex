@@ -3,13 +3,13 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "resumex"
+name = "resumex-py"
 version = "0.1.0"
 description = "YAML -> LaTeX -> PDF resume builder with strict theme schemas."
 readme = "README.md"
 requires-python = ">=3.12"
 license = {text = "MIT"}
-authors = [{name = "dote", email = "vsivasankaran@ucsd.edu"}]
+authors = [{name = "dote"}]
 dependencies = [
   "pydantic>=2.6",
   "PyYAML>=6.0",
@@ -28,9 +28,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/dote/resumex"
-Repository = "https://github.com/dote/resumex"
-Issues = "https://github.com/dote/resumex/issues"
+Homepage = "https://github.com/rsm-vsivasankaran/resumex"
+Repository = "https://github.com/rsm-vsivasankaran/resumex"
+Issues = "https://github.com/rsm-vsivasankaran/resumex/issues"
 
 [project.scripts]
 resumex = "resumex.cli:app"
