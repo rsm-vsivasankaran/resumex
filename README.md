@@ -1,7 +1,7 @@
 # resumex
 
 [![PyPI](https://img.shields.io/pypi/v/resumex-py.svg)](https://pypi.org/project/resumex-py/)
-[![Tests](https://img.shields.io/github/actions/workflow/status/dote/resumex/tests.yml?branch=main)](https://github.com/dote/resumex/actions)
+[![Tests](https://img.shields.io/github/actions/workflow/status/rsm-vsivasankaran/resumex/tests.yml?branch=main)](https://github.com/rsm-vsivasankaran/resumex/actions)
 
 An easy, YAML-based, theme-driven resume generator. `resumex` takes your structured data and produces professional LaTeX and PDF resumes with strict schema validation.
 
